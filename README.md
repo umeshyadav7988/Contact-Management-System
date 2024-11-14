@@ -49,8 +49,8 @@ A full-stack Contact Management System built with a **ReactJS** frontend using *
      ```
 
 3. **Configure MySQL Database**:
-   - Create a MySQL database (e.g., `contacts_db`).
-   - Update the database credentials in the backend configuration file (e.g., `server/config.js`).
+   - Create a MySQL database test.
+   - Update the database credentials in the backend configuration file db.js.
 
 4. **Run the Application**:
 
