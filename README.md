@@ -77,9 +77,9 @@ Contact-Management-System
 ├── client           
 │   ├── public
 │   └── src
-│       ├── components
-│       ├── App.js
-│       └── index.js
+│       ├── ContactForm.jsx
+│       ├── ContactsTable.jsx
+│       └── App.js
 ├── server             
 │   ├── db.js      
 │   └── server.js
