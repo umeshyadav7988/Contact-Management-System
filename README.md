@@ -1,6 +1,6 @@
-# Contact Management System
+# ContactSphere
 
-A full-stack Contact Management System built with a **ReactJS** frontend using **Material UI (MUI)** components and a **Node.js** backend connected to a **MySQL** database.
+ContactSphere is a full-stack Contact Management System designed to streamline the process of storing, managing, and organizing professional or personal contacts. Built with a React.js frontend utilizing Material UI (MUI) for a clean and modern UI, and powered by a Node.js & Express.js backend with a MySQL database, this system ensures efficient contact management with robust features.
 
 ## Features
 
